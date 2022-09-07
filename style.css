@@ -4,3 +4,10 @@
      color: blueviolet;
      font-size: medium;
  }
+
+ .contact-btn{
+
+    display:block ;
+    margin: 0 auto;
+    width: 40px;
+ }
